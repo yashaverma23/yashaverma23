@@ -58,11 +58,6 @@
 
 <a href="https://github.com/yashaverma23/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yashaverma23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashaverma23&show_icons=true&locale=en&layout=compact" alt="yashaverma23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashaverma23&show_icons=true&locale=en" alt="yashaverma23" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashaverma23&" alt="yashaverma23" /></p>
 
 <br/>
 <br/>
