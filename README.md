@@ -1,20 +1,20 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Yash Verma</h1>
-<h3 align="center">I'm a passionate Python Developer.</h3>
+<h3 align="center">I'm a Data Analyst, Python Developer, Data Science Student.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Science\Machine Learning**
+- 🔭 I’m currently working on **Algo Based Trading (Quant Analyst)**
 
-- 🌱 I’m currently learning **Data Science\Machine Learning.**
+- 🌱 I’m currently learning **Advance Data Science concepts**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 <!-- - 👨‍💻 All of my projects are available at **[My Portfolio]()**-->
 
-- 📫 How to reach me **yashaverma23@gmail.com**
+- 📫 How to reach me **yashaverma20@gmail.com**
 
 - ⚡ Fun fact **I love playing Football and Enjoy'playing all physical Sports.**
 
